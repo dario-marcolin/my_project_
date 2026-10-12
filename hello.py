@@ -1,1 +1,1 @@
-print("Hello World, I'm editing this from my new branch")
+print("Hello World, conflict from my_new_branch")
