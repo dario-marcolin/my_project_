@@ -1,1 +1,1 @@
-print("Hello World, conflict from my_new_branch")
+print("Hello world, conflict is resolved")
